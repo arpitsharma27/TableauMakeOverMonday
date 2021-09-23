@@ -7,5 +7,7 @@ One of the caveat for using the Tableau Desktop is that one will have to save th
 For learning a new tool like Tableau, this caveat should be neglected and one should continue to learn.
 
 #MakeOverMonday-- https://www.makeovermonday.co.uk/
+
 Look for this hashtab on Twitter.
+
 -Tableau puts new data on 
